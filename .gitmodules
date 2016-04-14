@@ -1,0 +1,6 @@
+[submodule "kicad___wheelerlab_library"]
+	path = kicad___wheelerlab_library
+	url = https://github.com/wheeler-microfluidics/kicad___wheelerlab_library.git
+[submodule "library"]
+	path = library
+	url = https://github.com/wheeler-microfluidics/kicad___wheelerlab_library.git
